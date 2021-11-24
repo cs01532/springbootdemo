@@ -8,6 +8,6 @@ public class Index {
 
     @GetMapping("/")
     public String home(){
-        return "hello world5";
+        return "hello world6";
     }
 }
